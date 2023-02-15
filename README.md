@@ -1,7 +1,6 @@
-Petr Arsentev
+Jamilya YUbirova
 peterarsentev
-Java Tutor. Consultant.
-& Job4j
-© Russia, Bryansk
-1 parsentev@yandex.ru
+SWIFT Developer
+© Kyrgystan, Bishkek
+jatiasamda@gmail.com
 
