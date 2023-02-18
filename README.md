@@ -1,16 +1,14 @@
 I'm looking for a job ‼️ 🔎
 
 © Kyrgystan, Bishkek
+
 jatiasamda@gmail.com
-
-
-Hi, I'm Jamilya. You might recognize me as GitHub's mascot.
 
 ello everyone👋🥳
 
 Glad to see you here! 🤩
 
-My name is Jamilya and I'm a junior iOS developer🍏.
+My name is Jamilya and I'm a junior iOS developer🍏. You might recognize me as GitHub's mascot.
 
 I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit)
 
