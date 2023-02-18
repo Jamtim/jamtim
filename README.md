@@ -4,7 +4,7 @@ I'm looking for a job ‼️ 🔎
 
 jatiasamda@gmail.com
 
-ello everyone👋🥳
+hello everyone👋🥳
 
 Glad to see you here! 🤩
 
