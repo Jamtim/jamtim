@@ -10,7 +10,7 @@ ello everyone👋🥳
 
 Glad to see you here! 🤩
 
-My name is Artem and I'm a junior iOS developer🍏.
+My name is Jamilya and I'm a junior iOS developer🍏.
 
 I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit)
 
