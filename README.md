@@ -4,7 +4,7 @@ SWIFT Developer
 jatiasamda@gmail.com
 
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Jamilya. You might recognize me as GitHub's mascot.
 
 
 <picture>
